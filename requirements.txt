@@ -1,4 +1,4 @@
 ﻿streamlit
-opencv-python-headless
+opencv-python
 pyzbar
 numpy
