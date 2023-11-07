@@ -41,7 +41,7 @@ def save_to_file(qr_code_data):
 
 def main():
     st.title("Leitura de QR Code")
-    st.write("Criado por: Liliane Almeida")
+    st.write("Criado por: Liliane Araujo")
     st.write("---")
     read_qrcode_from_webcam()
 
